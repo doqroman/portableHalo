@@ -1,4 +1,5 @@
 # portableHalo
+![メイン画像](https://github.com/doqroman/portableHalo/blob/images/images/image_1.jpg?raw=true)
 
 ### 必要なもの
 - レーザーカッター
@@ -29,6 +30,9 @@
 6. テープLEDにワイヤーをはんだづけする(それぞれのGND,Din,5Vを共通につなぐ)
 7. 共通でつないだGND,Din,5Vにワイヤーをはんだづけする(15cmくらい)
 8. cut_2のもうひとつでふたをするようにマスキングテープで仮止めする
-9. 
+9. あ
+```
+//あああ
+```
 
 Updating...
