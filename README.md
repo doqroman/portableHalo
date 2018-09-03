@@ -1,5 +1,5 @@
 # portableHalo
-![メイン画像]( =160x)
+![メイン画像]( https://github.com/doqroman/portableHalo/blob/master/images/thumbnail.jpg?raw=true =960x)
 
 ### 必要なもの
 - レーザーカッター
