@@ -4,18 +4,31 @@
 - レーザーカッター
 - 3Dプリンター(フィラメント)
 - [アクリル板(白)2mm厚](https://www.hazaiya.co.jp/category/akuriru_3.html)
-- [テープLED](https://www.amazon.co.jp/gp/product/B01N591UGE/ref=ox_sc_sfl_title_2?ie=UTF8&psc=1&smid=A19WO9MMW0TDGT)これとか
-- [arduino(互換機)](https://www.amazon.co.jp/gp/product/B01N0C5PTJ/ref=ox_sc_sfl_title_1?ie=UTF8&psc=1&smid=A1XEAMF1H64GNM)ちっちゃいからこれとか
+- [テープLED](http://amzn.asia/d/enwciwZ)
+なんか安い気がするからこれとか
+- [arduino(互換機)](http://amzn.asia/d/03yo8XP)
+ちっちゃいし安いからこれとか
 - microUSBケーブル
 - [タクトスイッチ](http://akizukidenshi.com/catalog/g/gP-02561/)
 - [電子ワイヤー](http://akizukidenshi.com/catalog/g/gP-06756/)
 - [乾電池ケース](http://akizukidenshi.com/catalog/g/gP-10207/)
+- [アクリサンデー接着剤](http://amzn.asia/d/3OnWLN0)
 - 単三乾電池 4個
 - ビニールテープ
+- マスキングテープ
 - ニッパーとか
 - やすり
 - はんだごて(はんだ)
 
 ### つくりかた
 1. カットデータでアクリルを切る(cut_2は2つ必要)
-2. 
+2. cut_1とcut_2のひとつをマスキングテープで仮止めする	
+3. 仮止めしたものをアクリサンデー接着剤でくっつける(慎重に)				
+4. テープLEDを8個1セットで8本切り出す
+5. 切り出してくっつけたアクリルにテープLEDを貼る
+6. テープLEDにワイヤーをはんだづけする(それぞれのGND,Din,5Vを共通につなぐ)
+7. 共通でつないだGND,Din,5Vにワイヤーをはんだづけする(15cmくらい)
+8. cut_2のもうひとつでふたをするようにマスキングテープで仮止めする
+9. 
+
+Updating...
