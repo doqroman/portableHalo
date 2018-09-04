@@ -1,6 +1,7 @@
 # portableHalo -ポータブル後光-
 ![メイン画像](https://raw.githubusercontent.com/doqroman/portableHalo/master/images/thumbnail.jpg)  
 ---
+---
 ### 必要なもの
 - レーザーカッター
 - 3Dプリンター(フィラメント)
